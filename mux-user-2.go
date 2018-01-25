@@ -2,7 +2,7 @@ package muxuser
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/sourcegraph/go-langserver.git/pkg/lsp"
+	"github.com/sourcegraph/go-langserver/pkg/lsp"
 )
 
 func init() {
